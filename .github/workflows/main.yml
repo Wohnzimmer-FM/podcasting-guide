@@ -15,7 +15,7 @@ jobs:
     - name: Install Asciidoctor
       run: |
         gem install asciidoctor
-        gem install asciidoctor-pdf
+        gem install asciidoctor-pdf --pre
     - name: Compile docs
       run: |
         ./build.sh
