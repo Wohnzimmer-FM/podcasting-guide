@@ -12,3 +12,10 @@ jobs:
     - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.x'
+    - name: Install Asciidoctor
+      run: |
+        gem install asciidoctor
+        gem install asciidoctor-pdf
+    - name: Compile docs
+      run: |
+        ./build.sh
