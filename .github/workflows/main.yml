@@ -17,6 +17,14 @@ jobs:
       run: |
         gem install asciidoctor
         gem install asciidoctor-pdf --pre
-    - name: Build docs
+    - name: Build
       run: |
         ./build.sh
+    - name: Deploy
+      uses: s0/git-publish-subdir-action@master
+      env:
+        REPO: self
+        BRANCH: ghpages
+        FOLDER: dist
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
