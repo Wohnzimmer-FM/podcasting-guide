@@ -9,6 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - uses: actions/install-ruby@v1
+    - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.x'
