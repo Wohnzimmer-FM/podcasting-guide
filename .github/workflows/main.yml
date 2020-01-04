@@ -30,7 +30,7 @@ jobs:
     - name: Convert with Pandoc to EPUB
       uses: docker://pandoc/latex:2.9
       with:
-        args: "--from docbook --to epub -s ./dist/index.xml -o ./dist/epub.docx"
+        args: "--from docbook --to epub -s ./dist/index.xml -o ./dist/index.epub"
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
       with:
