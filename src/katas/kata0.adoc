@@ -1,0 +1,49 @@
+
+=== Kata 0: Zusammenkommen
+
+==== Einführung
+In der ersten Woche kommen die Teilnehmende zusammen und tauschen sich über ihre Erfahrungen mit Podcasts aus. Podcasts hören ist sehr individuell und hängt stark von der Situation und persönlichen Umständen ab. Der Austausch über Podcatcher und Podcasts ist empfohlen, die erste Woche soll jedoch hauptsächlich zum Kennenlernen der Teilnehmende genutzt werden.
+
+Mögliche Fragen für den Einstieg ins Thema Podcasting:
+
+* Welche Podcasts höre ich gerne?
+* Welche Podcasts haben mich stark beeinflusst?
+* Aus welchen Podcasts lerne ich gerne?
+* Welche Podcasts unterhalten mich?
+* Wann und wo höre ich Podcasts?
+* Welche Länge der Podcasts bevorzuge ich?
+* Welche Podcaster kenne ich und würde gerne treffen?
+* Welche App nutze ich, um Podcasts zu abonnieren?
+
+==== Aufgabe 1: Lieblingspodcasts
+Trage 5 Podcasts ein, die Du kennst und gerne hörst. Teile die Liste mit dem Circle. Wenn Du in sozialen Medien unterwegs bist (Twitter, LinkedIn, Xing oder im firmeninternen Netzwerk), teile diese Liste auch dort. Menschen freuen sich über Podcastempfehlungen.
+
+[width="100%", options="header", cols="^5,95"]
+|============
+|   | Podcastname oder Link zur Webseite
+| 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+|============
+
+==== Aufgabe 2: Kategorien
+Finde 5 Podcasts aus verschiedenen Kategorien, z.B. Comedy, Business, Education etc. Nutze dafür Verzeichnisse wie iTunes, Spotify oder das interne Podcastverzeichnis des Unternehmens. Höre in diese Podcasts rein und notiere die Merkmale der Kategorie. Diskutiere die Ergebnisse mit dem Circle.
+
+[width="100%", options="header", cols="^5,30,35,30"]
+|============
+|   | Podcastname | Kategorie und Plattform | Merkmale
+| 1 |||
+| 2 |||
+| 3 |||
+| 4 |||
+| 5 |||
+|============
+
+
+==== Infobox zu Kata 0
+
+===== Podcastverzeichnisse
+
+===== Podcatcher

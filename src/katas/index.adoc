@@ -1,0 +1,26 @@
+== Katas
+
+Als Katas werden kleine abgeschlossene Lerneinheiten bezeichnet, in denen die Praxis und häufige Wiederholung bedeutend für das Lernen sind. Der Name Kata rührt aus den japanischen Kampfkünsten und wurde auf Programmierübungen übertragen.
+
+=== Übersicht der Katas
+Es gibt 11 Katas, die in 12 Wochen abgeschlossen werden. Zusätzlich gibt es eine Woche 0 (und Kata 0), die nicht auf das eigentliche Ziel des Lernpfades einzahlt.
+
+=== Struktur der Katas
+Jede Kata ist nach einer ähnlichen Struktur aufgebaut. Zeitlich gesehen besteht jedes Treffen aus folgenden Abschnitten:
+
+* **Check-in** [5 min]: Was haben die Teilnehmende bis zum Treffen vorbereitet?
+* **Kata** [50 min]: Durchsprache der Ergebnisse
+* **Check-out** [5 min]: Was machen die Teilnehmende bis zum nächsten Treffen?
+
+Inhaltliche Struktur einer Kata sieht dabei so aus:
+
+* **Einführung**: Worum geht es in der Kata und was lernen die Circle-Teilnehmende?
+* **Aufgaben**: Aufgaben, die vor dem Treffen gemacht werden müssen
+* **Infobox**: Weiterführende Informationen, die den Lernpfad unterstützen
+
+include::kata0.adoc[]
+
+
+== Quellen
+
+* https://de.wikipedia.org/wiki/Kata_(Programmierung)
