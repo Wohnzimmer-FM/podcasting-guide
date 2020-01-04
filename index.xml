@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>lernOS Podcasting Guide</title>
+<subtitle>Ich werde zum Sender</subtitle>
+<date>2020-01-04</date>
+</info>
+<section xml:id="_katas">
+<title>Katas</title>
+<simpara>Als Katas werden kleine abgeschlossene Lerneinheiten bezeichnet, in denen die Praxis und häufige Wiederholung bedeutend für das Lernen sind. Der Name Kata rührt aus den japanischen Kampfkünsten und wurde auf Programmierübungen übertragen.<footnote xml:id="kata"><simpara><link xl:href="https://de.wikipedia.org/wiki/Kata_(Programmierung">https://de.wikipedia.org/wiki/Kata_(Programmierung</link>)</simpara></footnote></simpara>
+<section xml:id="_übersicht_der_katas">
+<title>Übersicht der Katas</title>
+<simpara>Es gibt 11 Katas, die in 12 Wochen abgeschlossen werden. Zusätzlich gibt es eine Woche 0 (und Kata 0), die nicht auf das eigentliche Ziel des Lernpfades einzahlt.</simpara>
+</section>
+<section xml:id="_struktur_der_katas">
+<title>Struktur der Katas</title>
+<simpara>Jede Kata ist nach einer ähnlichen Struktur aufgebaut. Zeitlich gesehen besteht jedes Treffen aus folgenden Abschnitten:</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Check-in</emphasis> [5 min]: Was haben die Teilnehmende bis zum Treffen vorbereitet?</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Kata</emphasis> [50 min]: Durchsprache der Ergebnisse</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Check-out</emphasis> [5 min]: Was machen die Teilnehmende bis zum nächsten Treffen?</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Inhaltliche Struktur einer Kata sieht dabei so aus:</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Einführung</emphasis>: Worum geht es in der Kata und was lernen die Circle-Teilnehmende?</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Aufgaben</emphasis>: Aufgaben, die vor dem Treffen gemacht werden müssen</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Infobox</emphasis>: Weiterführende Informationen, die den Lernpfad unterstützen</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_kata_0_zusammenkommen">
+<title>Kata 0: Zusammenkommen</title>
+<section xml:id="_einführung">
+<title>Einführung</title>
+<simpara>In der ersten Woche kommen die Teilnehmende zusammen und tauschen sich über ihre Erfahrungen mit Podcasts aus. Podcasts hören ist sehr individuell und hängt stark von der Situation und persönlichen Umständen ab. Der Austausch über Podcatcher und Podcasts ist empfohlen, die erste Woche soll jedoch hauptsächlich zum Kennenlernen der Teilnehmende genutzt werden.</simpara>
+<simpara>Mögliche Fragen für den Einstieg ins Thema Podcasting:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Welche Podcasts höre ich gerne?</simpara>
+</listitem>
+<listitem>
+<simpara>Welche Podcasts haben mich stark beeinflusst?</simpara>
+</listitem>
+<listitem>
+<simpara>Aus welchen Podcasts lerne ich gerne?</simpara>
+</listitem>
+<listitem>
+<simpara>Welche Podcasts unterhalten mich?</simpara>
+</listitem>
+<listitem>
+<simpara>Wann und wo höre ich Podcasts?</simpara>
+</listitem>
+<listitem>
+<simpara>Welche Länge der Podcasts bevorzuge ich?</simpara>
+</listitem>
+<listitem>
+<simpara>Welche Podcaster kenne ich und würde gerne treffen?</simpara>
+</listitem>
+<listitem>
+<simpara>Welche App nutze ich, um Podcasts zu abonnieren?</simpara>
+</listitem>
+</itemizedlist>
+</section>
+<section xml:id="_aufgabe_1_lieblingspodcasts">
+<title>Aufgabe 1: Lieblingspodcasts</title>
+<simpara>Trage 5 Podcasts ein, die Du kennst und gerne hörst. Teile die Liste mit dem Circle. Wenn Du in sozialen Medien unterwegs bist (Twitter, LinkedIn, Xing oder im firmeninternen Netzwerk), teile diese Liste auch dort. Menschen freuen sich über Podcastempfehlungen.</simpara>
+<informaltable frame="all" rowsep="1" colsep="1">
+<?dbhtml table-width="100%"?>
+<?dbfo table-width="100%"?>
+<?dblatex table-width="100%"?>
+<tgroup cols="2">
+<colspec colname="col_1" colwidth="21.25*"/>
+<colspec colname="col_2" colwidth="403.75*"/>
+<thead>
+<row>
+<entry align="center" valign="top"></entry>
+<entry align="left" valign="top">Podcastname oder Link zur Webseite</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</section>
+<section xml:id="_aufgabe_2_kategorien">
+<title>Aufgabe 2: Kategorien</title>
+<simpara>Finde 5 Podcasts aus verschiedenen Kategorien, z.B. Comedy, Business, Education etc. Nutze dafür Verzeichnisse wie iTunes, Spotify oder das interne Podcastverzeichnis des Unternehmens. Höre in diese Podcasts rein und notiere die Merkmale der Kategorie. Diskutiere die Ergebnisse mit dem Circle.</simpara>
+<informaltable frame="all" rowsep="1" colsep="1">
+<?dbhtml table-width="100%"?>
+<?dbfo table-width="100%"?>
+<?dblatex table-width="100%"?>
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="21.25*"/>
+<colspec colname="col_2" colwidth="127.5*"/>
+<colspec colname="col_3" colwidth="148.75*"/>
+<colspec colname="col_4" colwidth="127.5*"/>
+<thead>
+<row>
+<entry align="center" valign="top"></entry>
+<entry align="left" valign="top">Podcastname</entry>
+<entry align="left" valign="top">Kategorie und Plattform</entry>
+<entry align="left" valign="top">Merkmale</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="center" valign="top"><simpara>1</simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>2</simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>3</simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>4</simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+<row>
+<entry align="center" valign="top"><simpara>5</simpara></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+<entry align="left" valign="top"></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</section>
+</section>
+</section>
+</article>
