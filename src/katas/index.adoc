@@ -1,6 +1,6 @@
 == Katas
 
-Als Katas werden kleine abgeschlossene Lerneinheiten bezeichnet, in denen die Praxis und häufige Wiederholung bedeutend für das Lernen sind. Der Name Kata rührt aus den japanischen Kampfkünsten und wurde auf Programmierübungen übertragen.
+Als Katas werden kleine abgeschlossene Lerneinheiten bezeichnet, in denen die Praxis und häufige Wiederholung bedeutend für das Lernen sind. Der Name Kata rührt aus den japanischen Kampfkünsten und wurde auf Programmierübungen übertragen.footnote:kata[https://de.wikipedia.org/wiki/Kata_(Programmierung)]
 
 === Übersicht der Katas
 Es gibt 11 Katas, die in 12 Wochen abgeschlossen werden. Zusätzlich gibt es eine Woche 0 (und Kata 0), die nicht auf das eigentliche Ziel des Lernpfades einzahlt.
@@ -19,8 +19,3 @@ Inhaltliche Struktur einer Kata sieht dabei so aus:
 * **Infobox**: Weiterführende Informationen, die den Lernpfad unterstützen
 
 include::kata0.adoc[]
-
-
-== Quellen
-
-* https://de.wikipedia.org/wiki/Kata_(Programmierung)

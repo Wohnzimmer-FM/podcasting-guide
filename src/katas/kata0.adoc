@@ -41,9 +41,4 @@ Finde 5 Podcasts aus verschiedenen Kategorien, z.B. Comedy, Business, Education 
 | 5 |||
 |============
 
-
-==== Infobox zu Kata 0
-
-===== Podcastverzeichnisse
-
-===== Podcatcher
+//include::kata0_infobox.adoc[]

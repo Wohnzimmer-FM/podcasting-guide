@@ -1,12 +1,13 @@
 name: CI
 
-on: [push]
+on: 
+  push:
+    branches:
+      - master
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
     - uses: actions/setup-ruby@v1
@@ -16,6 +17,6 @@ jobs:
       run: |
         gem install asciidoctor
         gem install asciidoctor-pdf --pre
-    - name: Compile docs
+    - name: Build docs
       run: |
         ./build.sh
