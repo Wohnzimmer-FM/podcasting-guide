@@ -23,11 +23,7 @@ jobs:
     - name: Convert with Pandoc
       uses: docker://pandoc/latex:2.9
       with:
-        args: |
-          --from docbook
-          --to docx
-          -s ./dist/index.xml 
-          -o ./dist/index.docx
+        args: "--from docbook --to docx -s ./dist/index.xml -o ./dist/index.docx"
     - name: Deploy
       uses: crazy-max/ghaction-github-pages@v1
       with:
